@@ -9,12 +9,13 @@ int main(int argc, char** argv)
 {
 	glutInit(&argc, argv); // Ligar GLUT
 	glutInitDisplayMode(GLUT_DOUBLE); // Display com Duplo Buffer
-	glutInitWindowSize(janela_largura, janela_altura); // tamanho da janela
+	glutInitWindowSize(janela_largura, janela_altura);
 	glutInitWindowPosition(50, 50); // Pos. onde surge a janela
 	glutCreateWindow("desenho 3d"); // Criar Janela
 	glutDisplayFunc(display); // imagem
 	glutReshapeFunc(reshape); // config telas
 	glutMainLoop(); // loop
+
 	return 0;
 }
 void reshape(GLsizei largura, GLsizei altura)
