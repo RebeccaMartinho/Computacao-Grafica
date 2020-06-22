@@ -1,0 +1,6 @@
+﻿  iluminacao_cubo.cpp
+C:\Users\Rebecca\source\repos\iluminacao_cubo\iluminacao_cubo\iluminacao_cubo.cpp(45,50): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Rebecca\source\repos\iluminacao_cubo\iluminacao_cubo\iluminacao_cubo.cpp(47,34): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+C:\Users\Rebecca\source\repos\iluminacao_cubo\iluminacao_cubo\iluminacao_cubo.cpp(64,49): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Rebecca\source\repos\iluminacao_cubo\iluminacao_cubo\iluminacao_cubo.cpp(66,33): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+  iluminacao_cubo.vcxproj -> C:\Users\Rebecca\source\repos\iluminacao_cubo\Debug\iluminacao_cubo.exe
