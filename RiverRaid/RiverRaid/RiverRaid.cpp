@@ -11,6 +11,7 @@ float barcoY = 0;
 float heliX = 0;
 float heliY = 0;
 int opX = 1;
+
 int opY = 1;
 
 int janela_largura = 600;
